@@ -7,4 +7,4 @@
 
 ### Punto 2
 - Los puntos ii y iii muestran la misma direccion de memoria, ya que, el puntero guarda la direccion de memoria de la variable, esto en el punto ii, mientras que el punto iii muestra la direccion de memoria de la variable.
-En el punto iv nos muestra la direccion de memoria del puntero, nos igual a las anteriore ya que el puntero tambien es una variable y esta tambien tiene un espacio en la memoria, que es la que muetra.
+En el punto iv nos muestra la direccion de memoria del puntero, no es igual a las anteriore ya que el puntero tambien es una variable y esta tambien tiene un espacio en la memoria, que es la que muetra.
